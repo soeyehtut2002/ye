@@ -1,0 +1,83 @@
+
+  body {
+   background-color: #ece9e4;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+  }
+
+
+  .card-body{
+
+    color: rgb(212, 33, 17);
+     background-color: #f8f8f8;
+    
+  }
+
+ 
+  .btn{
+    color: rgb(1, 1, 1);
+    
+}
+
+footer{background-color: aqua;}
+
+/* a:link{
+    color: rgb(245, 146, 16);
+    text-decoration: none;
+} */
+  
+/* a:visited{
+    color:rgb(87, 56, 15);
+    text-decoration: none;
+}
+ 
+a:hover{
+    color:rgb(178, 106, 11);
+    text-decoration: none;
+}
+ 
+a:active{
+    color: rgb(80, 174, 25);
+    text-decoration: none;
+} */
+.footpara{
+    color: rgb(219, 30, 30);
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.dropdown-item{
+  color: black;}
+.aa{
+    font-style: inherit;
+    font-weight: bold;
+    color: rgb(82, 116, 110);
+    font-size: 35px;
+    
+}
+*{padding:0;margin:0;}
+
+body{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:18px;
+	background-color:#CCC;
+}
+ 
+.float{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:40px;
+	background-color:rgb(96, 181, 207);
+	color:rgb(71, 29, 29);
+	border-radius:50px;
+	text-align:center;
+	box-shadow: 2px 2px 3px #999;
+}
+
+.my-float{
+	margin-top:22px;
+    margin-bottom: 22px;    
+}
+  

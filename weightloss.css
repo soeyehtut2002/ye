@@ -1,0 +1,28 @@
+.card-title{
+
+    color: #e11717;
+    font-size: 20px;
+    font-weight: 100;
+    font-style: oblique;
+}
+
+.card-text{
+
+    color: rgb(52, 8, 8);
+    font-weight: 200;
+    font-style: inherit;
+}
+.card-link{
+    color: rgb(227, 42, 42);
+}
+
+.container{
+    color: bisque;
+}
+ .aa{
+    color: burlywood;
+    font-size: xx-large;
+ }
+ .vv{
+    width: fit-content;
+ }

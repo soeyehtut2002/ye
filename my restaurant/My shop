@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>My Restaurant</title>
+  <style>
+    body {
+      background-color: #f2f2f2;
+    }
+    header {
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 1em;
+    }
+    nav {
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 0.5em;
+    }
+    nav a {
+      color: white;
+      text-decoration: none;
+      padding: 0.5em;
+    }
+    section {
+      background-color: #fff;
+      padding: 2em;
+    }
+    footer {
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 1em;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>My Restaurant</h1>
+  </header>
+  <nav>
+    <a href="#menu">Menu</a>
+    <a href="#about">About</a>
+    <a href="#contact">Contact</a>
+  </nav>
+  <section id="menu">
+    <h2>Menu</h2>
+    <p>Insert menu items and prices here</p>
+  </section>
+  <section id="about">
+    <h2>About</h2>
+    <p>Insert information about your restaurant here</p>
+  </section>
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Insert contact information for your restaurant here</p>
+  </section>
+  <footer>
+    <p>Copyright © My Restaurant</p>
+  </footer>
+</body>
+
+</html>

@@ -1,0 +1,21 @@
+.card-title{
+
+    color: #ff0000;
+    font-size: 20px;
+    font-weight: 100;
+    font-style: oblique;
+}
+
+.card-text{
+
+    color: rgb(52, 8, 8);
+    font-weight: 200;
+    font-style: inherit;
+}
+.card-link{
+    color: rgb(209, 72, 72);
+}
+.aa{
+    font-size: xx-large;
+    color: rgb(178, 135, 82);
+}

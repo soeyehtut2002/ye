@@ -1,0 +1,42 @@
+.card-title{
+
+    color: #080f23;
+    font-size: 30px;
+    font-weight: 100;
+    font-style: oblique;
+}
+
+.card-text{
+
+    color: rgb(52, 8, 8);
+    font-weight: 200;
+    font-style: inherit;
+}
+.card-link{
+    color: rgb(0, 0, 0);
+}
+
+footer{background-color: aqua;}
+
+
+
+  
+a:visited{
+    color:rgb(87, 56, 15);
+    text-decoration: none;
+}
+ 
+a:hover{
+    color:rgb(230, 219, 13);
+    text-decoration: none;
+}
+ 
+a:active{
+    color: rgb(100, 230, 25);
+    text-decoration: none;
+}
+.footpara{
+    color: rgb(200, 19, 173);
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
